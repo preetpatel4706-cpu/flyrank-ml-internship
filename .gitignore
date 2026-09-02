@@ -34,3 +34,8 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Debug scripts (do not commit)
+check_dataset.py
+debug_features.py
+.env
